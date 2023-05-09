@@ -39,7 +39,7 @@ class Quiz {
     text("resultado do questionario", 400, 200)
 
     // chame getContestantInfo () aqui
-    getContestantInfo()
+    getPlayerInfo()
 
 
 
